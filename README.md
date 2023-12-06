@@ -62,7 +62,7 @@ Tech- stacks used:
  Copy and paste the files at thr required position.
  
  ```
-    git clone https://github.com/mansi1710/DobaraMatPuchana
+    git clone https://github.com/manjunathaprasadgr/project
     cd DobaraMatPuchana
     pip install -r requirements.txt
  ```
